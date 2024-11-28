@@ -1,0 +1,10 @@
+# ninja log v5
+117	4525	7528652098231392	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	741ce9ee1464d70c
+1	4550	7528652099871226	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	1cb41d50b4130013
+136	4641	7528652101128968	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	e38302833aa75a15
+46	4724	7528652101824232	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	bb1ce3e5febb4732
+126	5551	7528652103694435	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	3bf1f9064db66dfc
+37	5729	7528652105537871	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	6902b0e30c4f886c
+107	5731	7528652109274130	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	f71462b5561208cd
+23	6482	7528652119128946	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	8119752f04b5c345
+6482	8445	7528652135634597	C:/Users/haroo/OneDrive/Desktop/Unity Projects/Museum Manor/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/313k3919/obj/arm64-v8a/libgame.so	40c7167b01d7677b

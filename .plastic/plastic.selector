@@ -1,0 +1,4 @@
+repository "Museum ManorV2@haroon97786@cloud"
+  path "/"
+    br "/main"
+    co "/main"
