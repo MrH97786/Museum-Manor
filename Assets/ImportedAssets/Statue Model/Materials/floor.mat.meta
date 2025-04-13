@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: db2cc86ecc917ef40ad1d14a1c20be59
+timeCreated: 1463472093
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62999
+  packageName: Unique Statue Model
+  packageVersion: 5.2.1
+  assetPath: Assets/Statue Model/Materials/floor.mat
+  uploadId: 119218

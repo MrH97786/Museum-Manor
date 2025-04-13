@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: be1dbaadd91128c45919f8a3f1587384
+timeCreated: 1463472093
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62999
+  packageName: Unique Statue Model
+  packageVersion: 5.2.1
+  assetPath: Assets/Statue Model/Materials/bronze.mat
+  uploadId: 119218
