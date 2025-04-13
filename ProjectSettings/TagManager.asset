@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Meteor
   - Keycard1
+  - PuzzleObject
   layers:
   - Default
   - TransparentFX
