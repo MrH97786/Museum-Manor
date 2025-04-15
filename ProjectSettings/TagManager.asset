@@ -9,6 +9,7 @@ TagManager:
   - PuzzleObject
   - PuzzleBall
   - Keycard2
+  - Keycard3
   layers:
   - Default
   - TransparentFX
