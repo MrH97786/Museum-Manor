@@ -10,6 +10,8 @@ TagManager:
   - PuzzleBall
   - Keycard2
   - Keycard3
+  - Keycard4
+  - Keycard5
   layers:
   - Default
   - TransparentFX
