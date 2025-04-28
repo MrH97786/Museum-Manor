@@ -12,6 +12,7 @@ TagManager:
   - Keycard3
   - Keycard4
   - Keycard5
+  - SpartanSword
   layers:
   - Default
   - TransparentFX

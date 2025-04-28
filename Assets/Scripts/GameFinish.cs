@@ -43,7 +43,7 @@ public class GameFinish : MonoBehaviour
 
     IEnumerator EndGameSequence()
     {
-        yield return new WaitForSeconds(7f); // Optional delay before fade
+        yield return new WaitForSeconds(4f); // Optional delay before fade
         if (fadeScreen != null)
         {
             fadeScreen.FadeOut();
